@@ -1,4 +1,4 @@
-# Datascience teaching notebooks for biodatascience101.github.io
+# Datascience teaching notebooks for [biodatascience101.github.io](biodatascience101.github.io)
 
 Collection of notebooks used for teaching data science, developed by Magnus Haraldson Høie and Andreas Fønss Møller
 
