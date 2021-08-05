@@ -1,0 +1,33 @@
+name: base
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - conda==4.5.8
+  - python=3
+  - scikit-learn
+  - numpy
+  - seaborn
+  - matplotlib=3.1.2
+  - plotnine
+  - pandas
+  - circos
+  - pytorch
+  - keras
+  - scipy
+  - statsmodels
+  - theano
+  - holoviews
+  - dask
+  - bokeh
+  - networkx
+  - python-igraph
+  - plotly
+  - bwa
+  - biotite
+  - umap-learn
+  - logomaker
+  - jupyterlab
+  - biopython
+prefix: /opt/tljh/user
