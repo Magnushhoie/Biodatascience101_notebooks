@@ -12,7 +12,7 @@
     <img src="img/biodatascience101.png" alt="Logo">
   </a>
 
-  <h3 align="center">Biological data-science notebooks</h3>
+  <h3 align="center">Biodatascience101 notebooks</h3>
 
   <p align="center">
     Collection of notebooks used in teaching for <a href="https://biodatascience101.github.io">biodatascience101.github.io</a>
