@@ -16,9 +16,6 @@ conda env create --name biodatascience101 --file environment.yml
 conda activate biodatascience101
 jupyter notebook
 
-# Access notebooks using Jupyter Notebook server
-jupyter notebook .
-
 # Once the server is running, copy paste the given URL into your browser of choice
 ```
 
