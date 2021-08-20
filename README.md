@@ -3,7 +3,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -80,5 +79,3 @@ This module covers different analytical methods of protein sequences such as seq
 [stars-url]: https://github.com/Magnushhoie/Datascience_notebooks/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Magnushhoie/Datascience_notebooks.svg?style=for-the-badge
 [issues-url]: https://github.com/Magnushhoie/Datascience_notebooks/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Magnushhoie/Datascience_notebooks/blob/master/LICENSE.txt
