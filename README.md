@@ -48,10 +48,26 @@ jupyter notebook
 
 This module covers dataset I/O handling, data modelling and normalisation in Pandas, principal component analysis and differential gene expression analysis. The case data is on quantification of relative protein levels in malaria-infected mice from work by [Tiberti, N et al Scientific Reports 2016](https://www.nature.com/articles/srep37871).
 
+---
+
 #### [Module 2: Data Visualisation - Sequence features for thermostability in proteins from extremophiles](https://github.com/Magnushhoie/Datascience_notebooks/blob/master/Module_2_Sequence_DataVisualization.ipynb)
 <img src="https://github.com/Magnushhoie/Datascience_notebooks/blob/master/img/module2_logo.png?raw=true" width="504" height="322">
 
 This module covers efficient data processing in Numpy, analysis and visualisation of biological sequences and graphing in Seaborn and Matplotlib. The case data comes from a dataset of 7.7 million bacterial sequences with associated temperature data compiled by the [iGEM Potsdam team for Kaggle](https://www.kaggle.com/igempotsdam/protein-heat-resistance-dataset), collected from the Bacterial Diversity Metadatabase and UniProt.
+
+---
+
+#### [Module 4: Machine-learning classification of benign and malignant tumors](https://github.com/Magnushhoie/Datascience_notebooks/blob/master/Module_4_Machine_learning.ipynb)
+<img src="https://github.com/Magnushhoie/Datascience_notebooks/blob/master/img/module_4.png?raw=true" width="500">
+
+Module covering machine-learning dataset pre-processing, exploratory data-analysis, comparison of Scikit-learn prediction model, visualization of model decision-boundaries and evaluation of model performance.
+
+---
+
+#### [Module 5: Protein Sequences Analysis - Analysing antibodies binding SARS-CoV-2](https://github.com/Magnushhoie/Datascience_notebooks/blob/master/Module_5_ProteinClustering.ipynb)
+<img src="https://github.com/Magnushhoie/Datascience_notebooks/blob/master/img/module_5.png?raw=true" width="500">
+
+This module covers different analytical methods of protein sequences such as sequence alignments, clustering and logoplots. We will be looking at coronavirus binding antibodies, exploring how they can be clustered using PCA, t-SNE and UMAP, how these clusters can be visualized using logoplots and how to interpret these findings.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
