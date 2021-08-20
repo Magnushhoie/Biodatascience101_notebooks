@@ -12,7 +12,7 @@
     <img src="img/biodatascience101.png" alt="Logo">
   </a>
 
-  <h3 align="center">Biodatascience101 notebooks</h3>
+  <h3 align="center">Biological data-science notebooks</h3>
 
   <p align="center">
     Collection of notebooks used in teaching for <a href="https://biodatascience101.github.io">biodatascience101.github.io</a>
@@ -40,6 +40,8 @@ jupyter notebook
 
 # Once the server is running, copy paste the given URL into your browser of choice
 ```
+
+## Notebooks
 
 #### [Module 1: Data Exploration - Biomarkers for cerebral Malaria in protein expression data](https://github.com/Magnushhoie/Datascience_notebooks/blob/master/Module_1_Malaria_PandasIO.ipynb)
 <img src="https://raw.githubusercontent.com/Magnushhoie/Datascience_notebooks/master/img/module1_logo.png">
