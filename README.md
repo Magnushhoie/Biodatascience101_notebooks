@@ -16,7 +16,7 @@
   <p align="center">
     Collection of notebooks used in teaching for <a href="https://biodatascience101.github.io">biodatascience101.github.io</a>
   <br>
-    Developed by Magnus Haraldson Høie, Andreas Fønss Møller and Tobias Hegelund Olsen.
+    Developed by Magnus H. Høie, Andreas Fønss Møller and Tobias Hegelund Olsen.
     <br />
   </p>
 </p>
