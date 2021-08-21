@@ -27,8 +27,8 @@
 
 ```bash
 # Download
-git clone https://github.com/Magnushhoie/Datascience_notebooks
-cd Datascience_notebooks
+git clone https://github.com/Magnushhoie/Biodatascience101_notebooks
+cd Biodatascience101_notebooks
 
 # Install environment
 conda env create --name biodatascience101 --file environment.yml
