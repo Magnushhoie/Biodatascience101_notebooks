@@ -25,6 +25,8 @@
 
 ## Installation
 
+Install the required dependencies using [conda](https://docs.anaconda.com/anaconda/install/).
+
 ```bash
 # Download
 git clone https://github.com/Magnushhoie/Biodatascience101_notebooks
@@ -32,15 +34,26 @@ cd Biodatascience101_notebooks
 
 # Install environment
 conda env create --name biodatascience101 --file environment.yml
+```
 
+## Usage
+
+Notebooks are run using [Jupyter notebook server](https://jupyter.readthedocs.io/en/latest/running.html) (accessible with conda).
+
+```bash
 # Activate environment and run Jupyter notebook server
 conda activate biodatascience101
 jupyter notebook
 
-# Once the server is running, copy paste the given URL into your browser of choice
+# Once the server is running, copy paste the given URL into your browser
+# and access your notebook of choice
 ```
 
 ## Notebooks
+
+The notebooks may be viewed directly below.
+
+---
 
 #### [Module 1: Data Exploration - Biomarkers for cerebral Malaria in protein expression data](https://github.com/Magnushhoie/Datascience_notebooks/blob/master/Module_1_Malaria_PandasIO.ipynb)
 <img src="https://raw.githubusercontent.com/Magnushhoie/Datascience_notebooks/master/img/module1_logo.png">
