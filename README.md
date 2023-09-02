@@ -14,7 +14,7 @@
   <h3 align="center">Biodatascience101 notebooks</h3>
 
   <p align="center">
-    Collection of notebooks used in teaching for <a href="https://biodatascience101.github.io">biodatascience101.github.io</a>
+    Collection of biological data-science Jupyter notebooks used in teaching for <a href="https://biodatascience101.github.io">biodatascience101.github.io</a>
   <br>
     Developed by Magnus H. Høie, Andreas Fønss Møller and Tobias Hegelund Olsen.
     <br />
